@@ -9,13 +9,12 @@ h1 {
 }
 img {
     
-    width: 30%;
-    padding-bottom: 6rem;
-    border-radius: 100%;
+    width: 50%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border-radius: 50%;
 }
-.dog-img {
-    
-}
-.pit-img {
-    
+.pocket-pit-img {
+
+
 }
