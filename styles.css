@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(167, 3, 167);
+    text-align: center;
+}
+.container {
+    display:inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+img {
+    
+    width: 30%;
+    padding-bottom: 6rem;
+    border-radius: 100%;
+}
+.dog-img {
+    
+}
+.pit-img {
+    
+}
