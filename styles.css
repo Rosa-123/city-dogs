@@ -1,20 +1,15 @@
-h1 {
-    color: rgb(167, 3, 167);
-    text-align: center;
+
+.nav-item {
+    align-items: flex-end;
 }
-.container {
-    display:inline-flex;
-    flex-direction: column;
-    align-items: center;
-}
-img {
-    
+
+.carousel-inner{
+    margin: auto;
     width: 50%;
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-    border-radius: 50%;
+    max-height: 400px;
 }
-.pocket-pit-img {
-
-
+.carousel-item{
+    margin: 0 auto;
+    width: 100%;
+    float: none;
 }
